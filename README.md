@@ -3,3 +3,4 @@ This is an Arduino 🤖 project to measure a temperatury 🌡️ and humidity �
 
 # Made with
 [![Arduino](https://img.shields.io/badge/arduino-2e84bb?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000)]()
+[![C++](https://img.shields.io/badge/c++-048?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000)]()
